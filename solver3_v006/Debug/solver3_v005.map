@@ -1,0 +1,949 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/local/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libcr_c.a(__weak__main.o)
+                              ./Aplicacion/cr_startup_lpc175x_6x.o (__main)
+/usr/local/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libcr_c.a(strcpy.o)
+                              ./Primitivas/PR_string.o (strcpy)
+/usr/local/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libcr_c.a(strlen.o)
+                              ./Primitivas/PR_string.o (strlen)
+/usr/local/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libcr_c.a(strstr.o)
+                              ./Primitivas/PR_string.o (strstr)
+
+Discarded input sections
+
+ .group         0x00000000        0x8 ./Primitivas/PR_7seg.o
+ .group         0x00000000        0x8 ./Primitivas/PR_7seg.o
+ .group         0x00000000        0x8 ./Primitivas/PR_7seg.o
+ .text          0x00000000        0x0 ./Primitivas/PR_7seg.o
+ .data          0x00000000        0x0 ./Primitivas/PR_7seg.o
+ .bss           0x00000000        0x0 ./Primitivas/PR_7seg.o
+ .group         0x00000000        0x8 ./Primitivas/PR_Crono.o
+ .group         0x00000000        0x8 ./Primitivas/PR_Crono.o
+ .group         0x00000000        0x8 ./Primitivas/PR_Crono.o
+ .text          0x00000000        0x0 ./Primitivas/PR_Crono.o
+ .data          0x00000000        0x0 ./Primitivas/PR_Crono.o
+ .bss           0x00000000        0x0 ./Primitivas/PR_Crono.o
+ .text.ResetCrono
+                0x00000000       0x40 ./Primitivas/PR_Crono.o
+ .debug_macro   0x00000000      0x886 ./Primitivas/PR_Crono.o
+ .debug_macro   0x00000000       0x10 ./Primitivas/PR_Crono.o
+ .debug_macro   0x00000000      0x693 ./Primitivas/PR_Crono.o
+ .group         0x00000000        0x8 ./Primitivas/PR_Serial.o
+ .group         0x00000000        0x8 ./Primitivas/PR_Serial.o
+ .group         0x00000000        0x8 ./Primitivas/PR_Serial.o
+ .group         0x00000000        0x8 ./Primitivas/PR_Serial.o
+ .group         0x00000000        0x8 ./Primitivas/PR_Serial.o
+ .group         0x00000000        0x8 ./Primitivas/PR_Serial.o
+ .text          0x00000000        0x0 ./Primitivas/PR_Serial.o
+ .data          0x00000000        0x0 ./Primitivas/PR_Serial.o
+ .bss           0x00000000        0x0 ./Primitivas/PR_Serial.o
+ .bss.g_rxOut   0x00000000        0x1 ./Primitivas/PR_Serial.o
+ .text.Serial_PopRx
+                0x00000000       0x5c ./Primitivas/PR_Serial.o
+ .text.Serial_PushTx
+                0x00000000       0x74 ./Primitivas/PR_Serial.o
+ .debug_macro   0x00000000      0x886 ./Primitivas/PR_Serial.o
+ .debug_macro   0x00000000      0x693 ./Primitivas/PR_Serial.o
+ .group         0x00000000        0x8 ./Primitivas/PR_cube.o
+ .group         0x00000000        0x8 ./Primitivas/PR_cube.o
+ .group         0x00000000        0x8 ./Primitivas/PR_cube.o
+ .group         0x00000000        0x8 ./Primitivas/PR_cube.o
+ .group         0x00000000        0x8 ./Primitivas/PR_cube.o
+ .group         0x00000000        0x8 ./Primitivas/PR_cube.o
+ .group         0x00000000        0x8 ./Primitivas/PR_cube.o
+ .group         0x00000000        0x8 ./Primitivas/PR_cube.o
+ .group         0x00000000        0x8 ./Primitivas/PR_cube.o
+ .group         0x00000000        0x8 ./Primitivas/PR_cube.o
+ .group         0x00000000        0x8 ./Primitivas/PR_cube.o
+ .text          0x00000000        0x0 ./Primitivas/PR_cube.o
+ .data          0x00000000        0x0 ./Primitivas/PR_cube.o
+ .bss           0x00000000        0x0 ./Primitivas/PR_cube.o
+ .text.solverVector
+                0x00000000       0x68 ./Primitivas/PR_cube.o
+ .text.SoltarCubo
+                0x00000000       0x1c ./Primitivas/PR_cube.o
+ .text.carasMotores
+                0x00000000       0x8c ./Primitivas/PR_cube.o
+ .bss.i.4072    0x00000000        0x1 ./Primitivas/PR_cube.o
+ .debug_macro   0x00000000      0x886 ./Primitivas/PR_cube.o
+ .debug_macro   0x00000000      0x693 ./Primitivas/PR_cube.o
+ .debug_macro   0x00000000       0x10 ./Primitivas/PR_cube.o
+ .debug_macro   0x00000000       0x10 ./Primitivas/PR_cube.o
+ .debug_macro   0x00000000       0x10 ./Primitivas/PR_cube.o
+ .debug_macro   0x00000000      0x12d ./Primitivas/PR_cube.o
+ .group         0x00000000        0x8 ./Primitivas/PR_stepper.o
+ .group         0x00000000        0x8 ./Primitivas/PR_stepper.o
+ .text          0x00000000        0x0 ./Primitivas/PR_stepper.o
+ .data          0x00000000        0x0 ./Primitivas/PR_stepper.o
+ .bss           0x00000000        0x0 ./Primitivas/PR_stepper.o
+ .debug_macro   0x00000000      0x886 ./Primitivas/PR_stepper.o
+ .debug_macro   0x00000000      0x693 ./Primitivas/PR_stepper.o
+ .group         0x00000000        0x8 ./Primitivas/PR_string.o
+ .group         0x00000000        0x8 ./Primitivas/PR_string.o
+ .group         0x00000000        0x8 ./Primitivas/PR_string.o
+ .group         0x00000000        0x8 ./Primitivas/PR_string.o
+ .group         0x00000000        0x8 ./Primitivas/PR_string.o
+ .group         0x00000000        0x8 ./Primitivas/PR_string.o
+ .group         0x00000000        0x8 ./Primitivas/PR_string.o
+ .group         0x00000000        0x8 ./Primitivas/PR_string.o
+ .group         0x00000000        0x8 ./Primitivas/PR_string.o
+ .group         0x00000000        0x8 ./Primitivas/PR_string.o
+ .group         0x00000000        0x8 ./Primitivas/PR_string.o
+ .text          0x00000000        0x0 ./Primitivas/PR_string.o
+ .data          0x00000000        0x0 ./Primitivas/PR_string.o
+ .bss           0x00000000        0x0 ./Primitivas/PR_string.o
+ .debug_macro   0x00000000      0x886 ./Primitivas/PR_string.o
+ .debug_macro   0x00000000       0x10 ./Primitivas/PR_string.o
+ .debug_macro   0x00000000      0x12d ./Primitivas/PR_string.o
+ .debug_macro   0x00000000      0x693 ./Primitivas/PR_string.o
+ .debug_macro   0x00000000       0xd6 ./Primitivas/PR_string.o
+ .debug_macro   0x00000000       0x64 ./Primitivas/PR_string.o
+ .debug_macro   0x00000000       0x10 ./Primitivas/PR_string.o
+ .debug_macro   0x00000000       0x10 ./Primitivas/PR_string.o
+ .debug_macro   0x00000000       0x40 ./Primitivas/PR_string.o
+ .debug_macro   0x00000000       0x1c ./Primitivas/PR_string.o
+ .group         0x00000000        0x8 ./Primitivas/ProyecInit.o
+ .group         0x00000000        0x8 ./Primitivas/ProyecInit.o
+ .group         0x00000000        0x8 ./Primitivas/ProyecInit.o
+ .group         0x00000000        0x8 ./Primitivas/ProyecInit.o
+ .group         0x00000000        0x8 ./Primitivas/ProyecInit.o
+ .group         0x00000000        0x8 ./Primitivas/ProyecInit.o
+ .group         0x00000000        0x8 ./Primitivas/ProyecInit.o
+ .group         0x00000000        0x8 ./Primitivas/ProyecInit.o
+ .group         0x00000000        0x8 ./Primitivas/ProyecInit.o
+ .group         0x00000000        0x8 ./Primitivas/ProyecInit.o
+ .group         0x00000000        0x8 ./Primitivas/ProyecInit.o
+ .text          0x00000000        0x0 ./Primitivas/ProyecInit.o
+ .data          0x00000000        0x0 ./Primitivas/ProyecInit.o
+ .bss           0x00000000        0x0 ./Primitivas/ProyecInit.o
+ .debug_macro   0x00000000      0x886 ./Primitivas/ProyecInit.o
+ .debug_macro   0x00000000      0x693 ./Primitivas/ProyecInit.o
+ .debug_macro   0x00000000       0xd6 ./Primitivas/ProyecInit.o
+ .debug_macro   0x00000000       0x64 ./Primitivas/ProyecInit.o
+ .debug_macro   0x00000000       0x10 ./Primitivas/ProyecInit.o
+ .debug_macro   0x00000000       0x34 ./Primitivas/ProyecInit.o
+ .debug_macro   0x00000000       0x10 ./Primitivas/ProyecInit.o
+ .debug_macro   0x00000000       0x10 ./Primitivas/ProyecInit.o
+ .debug_macro   0x00000000      0x12d ./Primitivas/ProyecInit.o
+ .debug_macro   0x00000000       0x1c ./Primitivas/ProyecInit.o
+ .debug_macro   0x00000000       0x40 ./Primitivas/ProyecInit.o
+ .group         0x00000000        0x8 ./Drivers/FW_7seg.o
+ .group         0x00000000        0x8 ./Drivers/FW_7seg.o
+ .group         0x00000000        0x8 ./Drivers/FW_7seg.o
+ .group         0x00000000        0x8 ./Drivers/FW_7seg.o
+ .group         0x00000000        0x8 ./Drivers/FW_7seg.o
+ .group         0x00000000        0x8 ./Drivers/FW_7seg.o
+ .group         0x00000000        0x8 ./Drivers/FW_7seg.o
+ .group         0x00000000        0x8 ./Drivers/FW_7seg.o
+ .group         0x00000000        0x8 ./Drivers/FW_7seg.o
+ .group         0x00000000        0x8 ./Drivers/FW_7seg.o
+ .group         0x00000000        0x8 ./Drivers/FW_7seg.o
+ .text          0x00000000        0x0 ./Drivers/FW_7seg.o
+ .data          0x00000000        0x0 ./Drivers/FW_7seg.o
+ .bss           0x00000000        0x0 ./Drivers/FW_7seg.o
+ .debug_macro   0x00000000      0x886 ./Drivers/FW_7seg.o
+ .debug_macro   0x00000000      0x693 ./Drivers/FW_7seg.o
+ .debug_macro   0x00000000       0xd6 ./Drivers/FW_7seg.o
+ .debug_macro   0x00000000       0x64 ./Drivers/FW_7seg.o
+ .debug_macro   0x00000000       0x10 ./Drivers/FW_7seg.o
+ .debug_macro   0x00000000       0x34 ./Drivers/FW_7seg.o
+ .debug_macro   0x00000000       0x10 ./Drivers/FW_7seg.o
+ .debug_macro   0x00000000       0x10 ./Drivers/FW_7seg.o
+ .debug_macro   0x00000000      0x12d ./Drivers/FW_7seg.o
+ .debug_macro   0x00000000       0x1c ./Drivers/FW_7seg.o
+ .debug_macro   0x00000000       0x40 ./Drivers/FW_7seg.o
+ .group         0x00000000        0x8 ./Drivers/FW_GPIO.o
+ .group         0x00000000        0x8 ./Drivers/FW_GPIO.o
+ .group         0x00000000        0x8 ./Drivers/FW_GPIO.o
+ .group         0x00000000        0x8 ./Drivers/FW_GPIO.o
+ .group         0x00000000        0x8 ./Drivers/FW_GPIO.o
+ .group         0x00000000        0x8 ./Drivers/FW_GPIO.o
+ .group         0x00000000        0x8 ./Drivers/FW_GPIO.o
+ .group         0x00000000        0x8 ./Drivers/FW_GPIO.o
+ .group         0x00000000        0x8 ./Drivers/FW_GPIO.o
+ .group         0x00000000        0x8 ./Drivers/FW_GPIO.o
+ .group         0x00000000        0x8 ./Drivers/FW_GPIO.o
+ .text          0x00000000        0x0 ./Drivers/FW_GPIO.o
+ .data          0x00000000        0x0 ./Drivers/FW_GPIO.o
+ .bss           0x00000000        0x0 ./Drivers/FW_GPIO.o
+ .text.SetPINMODE
+                0x00000000       0x88 ./Drivers/FW_GPIO.o
+ .text.GetPIN   0x00000000       0x38 ./Drivers/FW_GPIO.o
+ .debug_macro   0x00000000      0x886 ./Drivers/FW_GPIO.o
+ .debug_macro   0x00000000      0x693 ./Drivers/FW_GPIO.o
+ .debug_macro   0x00000000       0xd6 ./Drivers/FW_GPIO.o
+ .debug_macro   0x00000000       0x64 ./Drivers/FW_GPIO.o
+ .debug_macro   0x00000000       0x10 ./Drivers/FW_GPIO.o
+ .debug_macro   0x00000000       0x34 ./Drivers/FW_GPIO.o
+ .debug_macro   0x00000000       0x10 ./Drivers/FW_GPIO.o
+ .debug_macro   0x00000000       0x10 ./Drivers/FW_GPIO.o
+ .debug_macro   0x00000000      0x12d ./Drivers/FW_GPIO.o
+ .debug_macro   0x00000000       0x1c ./Drivers/FW_GPIO.o
+ .debug_macro   0x00000000       0x40 ./Drivers/FW_GPIO.o
+ .group         0x00000000        0x8 ./Drivers/FW_Stepper.o
+ .group         0x00000000        0x8 ./Drivers/FW_Stepper.o
+ .group         0x00000000        0x8 ./Drivers/FW_Stepper.o
+ .group         0x00000000        0x8 ./Drivers/FW_Stepper.o
+ .group         0x00000000        0x8 ./Drivers/FW_Stepper.o
+ .group         0x00000000        0x8 ./Drivers/FW_Stepper.o
+ .group         0x00000000        0x8 ./Drivers/FW_Stepper.o
+ .group         0x00000000        0x8 ./Drivers/FW_Stepper.o
+ .group         0x00000000        0x8 ./Drivers/FW_Stepper.o
+ .group         0x00000000        0x8 ./Drivers/FW_Stepper.o
+ .group         0x00000000        0x8 ./Drivers/FW_Stepper.o
+ .text          0x00000000        0x0 ./Drivers/FW_Stepper.o
+ .data          0x00000000        0x0 ./Drivers/FW_Stepper.o
+ .bss           0x00000000        0x0 ./Drivers/FW_Stepper.o
+ .debug_macro   0x00000000      0x886 ./Drivers/FW_Stepper.o
+ .debug_macro   0x00000000      0x693 ./Drivers/FW_Stepper.o
+ .debug_macro   0x00000000       0xd6 ./Drivers/FW_Stepper.o
+ .debug_macro   0x00000000       0x64 ./Drivers/FW_Stepper.o
+ .debug_macro   0x00000000       0x10 ./Drivers/FW_Stepper.o
+ .debug_macro   0x00000000       0x34 ./Drivers/FW_Stepper.o
+ .debug_macro   0x00000000       0x10 ./Drivers/FW_Stepper.o
+ .debug_macro   0x00000000       0x10 ./Drivers/FW_Stepper.o
+ .debug_macro   0x00000000      0x12d ./Drivers/FW_Stepper.o
+ .debug_macro   0x00000000       0x1c ./Drivers/FW_Stepper.o
+ .debug_macro   0x00000000       0x40 ./Drivers/FW_Stepper.o
+ .group         0x00000000        0x8 ./Drivers/FW_Systick.o
+ .group         0x00000000        0x8 ./Drivers/FW_Systick.o
+ .group         0x00000000        0x8 ./Drivers/FW_Systick.o
+ .group         0x00000000        0x8 ./Drivers/FW_Systick.o
+ .group         0x00000000        0x8 ./Drivers/FW_Systick.o
+ .group         0x00000000        0x8 ./Drivers/FW_Systick.o
+ .group         0x00000000        0x8 ./Drivers/FW_Systick.o
+ .group         0x00000000        0x8 ./Drivers/FW_Systick.o
+ .group         0x00000000        0x8 ./Drivers/FW_Systick.o
+ .group         0x00000000        0x8 ./Drivers/FW_Systick.o
+ .group         0x00000000        0x8 ./Drivers/FW_Systick.o
+ .text          0x00000000        0x0 ./Drivers/FW_Systick.o
+ .data          0x00000000        0x0 ./Drivers/FW_Systick.o
+ .bss           0x00000000        0x0 ./Drivers/FW_Systick.o
+ .debug_macro   0x00000000      0x886 ./Drivers/FW_Systick.o
+ .debug_macro   0x00000000      0x693 ./Drivers/FW_Systick.o
+ .debug_macro   0x00000000       0xd6 ./Drivers/FW_Systick.o
+ .debug_macro   0x00000000       0x64 ./Drivers/FW_Systick.o
+ .debug_macro   0x00000000       0x10 ./Drivers/FW_Systick.o
+ .debug_macro   0x00000000       0x34 ./Drivers/FW_Systick.o
+ .debug_macro   0x00000000       0x10 ./Drivers/FW_Systick.o
+ .debug_macro   0x00000000       0x10 ./Drivers/FW_Systick.o
+ .debug_macro   0x00000000      0x12d ./Drivers/FW_Systick.o
+ .debug_macro   0x00000000       0x1c ./Drivers/FW_Systick.o
+ .debug_macro   0x00000000       0x40 ./Drivers/FW_Systick.o
+ .group         0x00000000        0x8 ./Drivers/FW_Timer.o
+ .group         0x00000000        0x8 ./Drivers/FW_Timer.o
+ .group         0x00000000        0x8 ./Drivers/FW_Timer.o
+ .text          0x00000000        0x0 ./Drivers/FW_Timer.o
+ .data          0x00000000        0x0 ./Drivers/FW_Timer.o
+ .bss           0x00000000        0x0 ./Drivers/FW_Timer.o
+ .debug_macro   0x00000000      0x886 ./Drivers/FW_Timer.o
+ .debug_macro   0x00000000      0x693 ./Drivers/FW_Timer.o
+ .debug_macro   0x00000000       0x64 ./Drivers/FW_Timer.o
+ .group         0x00000000        0x8 ./Drivers/FW_UART.o
+ .group         0x00000000        0x8 ./Drivers/FW_UART.o
+ .group         0x00000000        0x8 ./Drivers/FW_UART.o
+ .group         0x00000000        0x8 ./Drivers/FW_UART.o
+ .text          0x00000000        0x0 ./Drivers/FW_UART.o
+ .data          0x00000000        0x0 ./Drivers/FW_UART.o
+ .bss           0x00000000        0x0 ./Drivers/FW_UART.o
+ .debug_macro   0x00000000      0x886 ./Drivers/FW_UART.o
+ .debug_macro   0x00000000      0x693 ./Drivers/FW_UART.o
+ .debug_macro   0x00000000       0x64 ./Drivers/FW_UART.o
+ .debug_macro   0x00000000       0x10 ./Drivers/FW_UART.o
+ .group         0x00000000        0x8 ./Aplicacion/Solver3.o
+ .group         0x00000000        0x8 ./Aplicacion/Solver3.o
+ .group         0x00000000        0x8 ./Aplicacion/Solver3.o
+ .group         0x00000000        0x8 ./Aplicacion/Solver3.o
+ .group         0x00000000        0x8 ./Aplicacion/Solver3.o
+ .group         0x00000000        0x8 ./Aplicacion/Solver3.o
+ .group         0x00000000        0x8 ./Aplicacion/Solver3.o
+ .group         0x00000000        0x8 ./Aplicacion/Solver3.o
+ .group         0x00000000        0x8 ./Aplicacion/Solver3.o
+ .group         0x00000000        0x8 ./Aplicacion/Solver3.o
+ .group         0x00000000        0x8 ./Aplicacion/Solver3.o
+ .group         0x00000000        0x8 ./Aplicacion/Solver3.o
+ .text          0x00000000        0x0 ./Aplicacion/Solver3.o
+ .data          0x00000000        0x0 ./Aplicacion/Solver3.o
+ .bss           0x00000000        0x0 ./Aplicacion/Solver3.o
+ .debug_macro   0x00000000      0x886 ./Aplicacion/Solver3.o
+ .debug_macro   0x00000000      0x693 ./Aplicacion/Solver3.o
+ .debug_macro   0x00000000       0xd6 ./Aplicacion/Solver3.o
+ .debug_macro   0x00000000       0x64 ./Aplicacion/Solver3.o
+ .debug_macro   0x00000000       0x10 ./Aplicacion/Solver3.o
+ .debug_macro   0x00000000       0x34 ./Aplicacion/Solver3.o
+ .debug_macro   0x00000000       0x10 ./Aplicacion/Solver3.o
+ .debug_macro   0x00000000       0x10 ./Aplicacion/Solver3.o
+ .debug_macro   0x00000000      0x12d ./Aplicacion/Solver3.o
+ .debug_macro   0x00000000       0x1c ./Aplicacion/Solver3.o
+ .debug_macro   0x00000000       0x40 ./Aplicacion/Solver3.o
+ .group         0x00000000        0x8 ./Aplicacion/cr_startup_lpc175x_6x.o
+ .text          0x00000000        0x0 ./Aplicacion/cr_startup_lpc175x_6x.o
+ .data          0x00000000        0x0 ./Aplicacion/cr_startup_lpc175x_6x.o
+ .bss           0x00000000        0x0 ./Aplicacion/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000      0x886 ./Aplicacion/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./Aplicacion/crp.o
+ .group         0x00000000        0x8 ./Aplicacion/crp.o
+ .text          0x00000000        0x0 ./Aplicacion/crp.o
+ .data          0x00000000        0x0 ./Aplicacion/crp.o
+ .bss           0x00000000        0x0 ./Aplicacion/crp.o
+ .crp           0x00000000        0x4 ./Aplicacion/crp.o
+ .debug_info    0x00000000       0x3f ./Aplicacion/crp.o
+ .debug_abbrev  0x00000000       0x36 ./Aplicacion/crp.o
+ .debug_aranges
+                0x00000000       0x18 ./Aplicacion/crp.o
+ .debug_macro   0x00000000       0x1a ./Aplicacion/crp.o
+ .debug_macro   0x00000000      0x886 ./Aplicacion/crp.o
+ .debug_macro   0x00000000       0x34 ./Aplicacion/crp.o
+ .debug_line    0x00000000       0x83 ./Aplicacion/crp.o
+ .debug_str     0x00000000     0x25b1 ./Aplicacion/crp.o
+ .comment       0x00000000       0x6f ./Aplicacion/crp.o
+ .ARM.attributes
+                0x00000000       0x33 ./Aplicacion/crp.o
+ .text          0x00000000        0x0 /usr/local/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libcr_c.a(__weak__main.o)
+ .data          0x00000000        0x0 /usr/local/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libcr_c.a(__weak__main.o)
+ .bss           0x00000000        0x0 /usr/local/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libcr_c.a(__weak__main.o)
+ .text          0x00000000        0x0 /usr/local/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libcr_c.a(strcpy.o)
+ .data          0x00000000        0x0 /usr/local/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libcr_c.a(strcpy.o)
+ .bss           0x00000000        0x0 /usr/local/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libcr_c.a(strcpy.o)
+ .text          0x00000000        0x0 /usr/local/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libcr_c.a(strlen.o)
+ .data          0x00000000        0x0 /usr/local/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libcr_c.a(strlen.o)
+ .bss           0x00000000        0x0 /usr/local/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libcr_c.a(strlen.o)
+ .text          0x00000000        0x0 /usr/local/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libcr_c.a(strstr.o)
+ .data          0x00000000        0x0 /usr/local/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libcr_c.a(strstr.o)
+ .bss           0x00000000        0x0 /usr/local/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libcr_c.a(strstr.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash512        0x00000000         0x00080000         xr
+RamLoc32         0x10000000         0x00008000         xrw
+RamAHB32         0x2007c000         0x00008000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./Primitivas/PR_7seg.o
+LOAD ./Primitivas/PR_Crono.o
+LOAD ./Primitivas/PR_Serial.o
+LOAD ./Primitivas/PR_cube.o
+LOAD ./Primitivas/PR_stepper.o
+LOAD ./Primitivas/PR_string.o
+LOAD ./Primitivas/ProyecInit.o
+LOAD ./Drivers/FW_7seg.o
+LOAD ./Drivers/FW_GPIO.o
+LOAD ./Drivers/FW_Stepper.o
+LOAD ./Drivers/FW_Systick.o
+LOAD ./Drivers/FW_Timer.o
+LOAD ./Drivers/FW_UART.o
+LOAD ./Aplicacion/Solver3.o
+LOAD ./Aplicacion/cr_startup_lpc175x_6x.o
+LOAD ./Aplicacion/crp.o
+START GROUP
+LOAD /usr/local/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libcr_c.a
+LOAD /usr/local/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libcr_eabihelpers.a
+END GROUP
+                0x00000000                __base_MFlash512 = 0x0
+                0x00000000                __base_Flash = 0x0
+                0x00080000                __top_MFlash512 = 0x80000
+                0x00080000                __top_Flash = 0x80000
+                0x10000000                __base_RamLoc32 = 0x10000000
+                0x10000000                __base_RAM = 0x10000000
+                0x10008000                __top_RamLoc32 = 0x10008000
+                0x10008000                __top_RAM = 0x10008000
+                0x2007c000                __base_RamAHB32 = 0x2007c000
+                0x2007c000                __base_RAM2 = 0x2007c000
+                0x20084000                __top_RamAHB32 = 0x20084000
+                0x20084000                __top_RAM2 = 0x20084000
+
+.text           0x00000000     0x1eec
+ FILL mask 0xff
+                0x00000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xcc ./Aplicacion/cr_startup_lpc175x_6x.o
+                0x00000000                g_pfnVectors
+                0x000000cc                . = ALIGN (0x4)
+                0x000000cc                __section_table_start = .
+                0x000000cc                __data_section_table = .
+                0x000000cc        0x4 LONG 0x1eec LOADADDR (.data)
+                0x000000d0        0x4 LONG 0x10000000 ADDR (.data)
+                0x000000d4        0x4 LONG 0x14 SIZEOF (.data)
+                0x000000d8        0x4 LONG 0x1eec LOADADDR (.data_RAM2)
+                0x000000dc        0x4 LONG 0x2007c000 ADDR (.data_RAM2)
+                0x000000e0        0x4 LONG 0x0 SIZEOF (.data_RAM2)
+                0x000000e4                __data_section_table_end = .
+                0x000000e4                __bss_section_table = .
+                0x000000e4        0x4 LONG 0x10000014 ADDR (.bss)
+                0x000000e8        0x4 LONG 0x24c SIZEOF (.bss)
+                0x000000ec        0x4 LONG 0x2007c000 ADDR (.bss_RAM2)
+                0x000000f0        0x4 LONG 0x0 SIZEOF (.bss_RAM2)
+                0x000000f4                __bss_section_table_end = .
+                0x000000f4                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x000000f4      0x140 ./Aplicacion/cr_startup_lpc175x_6x.o
+                0x000000f4                data_init
+                0x00000138                bss_init
+                0x00000170                ResetISR
+                0x000001e4                NMI_Handler
+                0x000001ec                HardFault_Handler
+                0x000001f4                MemManage_Handler
+                0x000001fc                BusFault_Handler
+                0x00000204                UsageFault_Handler
+                0x0000020c                SVC_Handler
+                0x00000214                DebugMon_Handler
+                0x0000021c                PendSV_Handler
+                0x0000022c                TIMER2_IRQHandler
+                0x0000022c                RIT_IRQHandler
+                0x0000022c                I2C0_IRQHandler
+                0x0000022c                USBActivity_IRQHandler
+                0x0000022c                PWM1_IRQHandler
+                0x0000022c                I2C1_IRQHandler
+                0x0000022c                EINT2_IRQHandler
+                0x0000022c                UART1_IRQHandler
+                0x0000022c                EINT3_IRQHandler
+                0x0000022c                CANActivity_IRQHandler
+                0x0000022c                TIMER3_IRQHandler
+                0x0000022c                IntDefaultHandler
+                0x0000022c                PLL0_IRQHandler
+                0x0000022c                CAN_IRQHandler
+                0x0000022c                PLL1_IRQHandler
+                0x0000022c                SSP0_IRQHandler
+                0x0000022c                I2S_IRQHandler
+                0x0000022c                I2C2_IRQHandler
+                0x0000022c                RTC_IRQHandler
+                0x0000022c                SPI_IRQHandler
+                0x0000022c                EINT1_IRQHandler
+                0x0000022c                TIMER1_IRQHandler
+                0x0000022c                UART2_IRQHandler
+                0x0000022c                ADC_IRQHandler
+                0x0000022c                SSP1_IRQHandler
+                0x0000022c                USB_IRQHandler
+                0x0000022c                BOD_IRQHandler
+                0x0000022c                WDT_IRQHandler
+                0x0000022c                QEI_IRQHandler
+                0x0000022c                EINT0_IRQHandler
+                0x0000022c                DMA_IRQHandler
+                0x0000022c                UART3_IRQHandler
+                0x0000022c                MCPWM_IRQHandler
+                0x0000022c                ENET_IRQHandler
+ *(.text*)
+ .text.Display_Number
+                0x00000234       0xa0 ./Primitivas/PR_7seg.o
+                0x00000234                Display_Number
+ .text.StarCrono
+                0x000002d4       0x18 ./Primitivas/PR_Crono.o
+                0x000002d4                StarCrono
+ .text.Cronometro
+                0x000002ec       0x70 ./Primitivas/PR_Crono.o
+                0x000002ec                Cronometro
+ .text.StopCrono
+                0x0000035c       0x18 ./Primitivas/PR_Crono.o
+                0x0000035c                StopCrono
+ .text.PushRx   0x00000374       0x50 ./Primitivas/PR_Serial.o
+ .text.PopTx    0x000003c4       0x60 ./Primitivas/PR_Serial.o
+ .text.Serial_RxIntHandler
+                0x00000424       0x20 ./Primitivas/PR_Serial.o
+                0x00000424                Serial_RxIntHandler
+ .text.Serial_TxIntHandler
+                0x00000444       0x30 ./Primitivas/PR_Serial.o
+                0x00000444                Serial_TxIntHandler
+ .text.Serial_Send
+                0x00000474       0x98 ./Primitivas/PR_Serial.o
+                0x00000474                Serial_Send
+ .text.rotar    0x0000050c      0x110 ./Primitivas/PR_cube.o
+                0x0000050c                rotar
+ .text.Cube     0x0000061c      0x410 ./Primitivas/PR_cube.o
+                0x0000061c                Cube
+ .text.relocate
+                0x00000a2c      0x17c ./Primitivas/PR_cube.o
+                0x00000a2c                relocate
+ .text.estadoMotores
+                0x00000ba8       0x70 ./Primitivas/PR_cube.o
+                0x00000ba8                estadoMotores
+ .text.PR_motor
+                0x00000c18      0x124 ./Primitivas/PR_stepper.o
+                0x00000c18                PR_motor
+ .text.comunication
+                0x00000d3c      0x240 ./Primitivas/PR_string.o
+                0x00000d3c                comunication
+ .text.Inicializacion
+                0x00000f7c       0x2c ./Primitivas/ProyecInit.o
+                0x00000f7c                Inicializacion
+ .text.PLL_Init
+                0x00000fa8      0x14c ./Primitivas/ProyecInit.o
+                0x00000fa8                PLL_Init
+ .text.Pin_Init
+                0x000010f4      0x244 ./Primitivas/ProyecInit.o
+                0x000010f4                Pin_Init
+ .text.Display_Init
+                0x00001338       0xdc ./Primitivas/ProyecInit.o
+                0x00001338                Display_Init
+ .text.barridoDisplay
+                0x00001414      0x1b0 ./Drivers/FW_7seg.o
+                0x00001414                barridoDisplay
+ .text.SetPINSEL
+                0x000015c4       0x88 ./Drivers/FW_GPIO.o
+                0x000015c4                SetPINSEL
+ .text.SetDIR   0x0000164c       0x74 ./Drivers/FW_GPIO.o
+                0x0000164c                SetDIR
+ .text.SetPIN   0x000016c0       0x70 ./Drivers/FW_GPIO.o
+                0x000016c0                SetPIN
+ .text.FW_dirMotor
+                0x00001730       0xc8 ./Drivers/FW_Stepper.o
+                0x00001730                FW_dirMotor
+ .text.FW_motor
+                0x000017f8      0x190 ./Drivers/FW_Stepper.o
+                0x000017f8                FW_motor
+ .text.FW_motorLineal
+                0x00001988       0xd4 ./Drivers/FW_Stepper.o
+                0x00001988                FW_motorLineal
+ .text.Systick_Init
+                0x00001a5c       0x34 ./Drivers/FW_Systick.o
+                0x00001a5c                Systick_Init
+ .text.SysTick_Handler
+                0x00001a90       0x10 ./Drivers/FW_Systick.o
+                0x00001a90                SysTick_Handler
+ .text.TIMER0_Init
+                0x00001aa0       0x88 ./Drivers/FW_Timer.o
+                0x00001aa0                TIMER0_Init
+ .text.TIMER0_IRQHandler
+                0x00001b28       0x70 ./Drivers/FW_Timer.o
+                0x00001b28                TIMER0_IRQHandler
+ .text.UART_Init
+                0x00001b98       0x7c ./Drivers/FW_UART.o
+                0x00001b98                UART_Init
+ .text.UART_ReceiveByte
+                0x00001c14       0x18 ./Drivers/FW_UART.o
+                0x00001c14                UART_ReceiveByte
+ .text.UART_SendByte
+                0x00001c2c       0x20 ./Drivers/FW_UART.o
+                0x00001c2c                UART_SendByte
+ .text.UART0_IRQHandler
+                0x00001c4c       0x40 ./Drivers/FW_UART.o
+                0x00001c4c                UART0_IRQHandler
+ .text.main     0x00001c8c      0x100 ./Aplicacion/Solver3.o
+                0x00001c8c                main
+ .text.__weak_main
+                0x00001d8c        0x4 /usr/local/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libcr_c.a(__weak__main.o)
+                0x00001d8c                __main
+                0x00001d8c                __weak_main
+ .text.strcpy   0x00001d90       0x42 /usr/local/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libcr_c.a(strcpy.o)
+                0x00001d90                strcpy
+ .text.strlen   0x00001dd2       0x4a /usr/local/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libcr_c.a(strlen.o)
+                0x00001dd2                strlen
+ .text.strstr   0x00001e1c       0x20 /usr/local/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libcr_c.a(strstr.o)
+                0x00001e1c                strstr
+ *(.rodata .rodata.* .constdata .constdata.*)
+ .rodata        0x00001e3c       0xad ./Primitivas/PR_string.o
+                0x00001eec                . = ALIGN (0x4)
+ *fill*         0x00001ee9        0x3 ff
+
+.glue_7         0x00001eec        0x0
+ .glue_7        0x00001eec        0x0 linker stubs
+
+.glue_7t        0x00001eec        0x0
+ .glue_7t       0x00001eec        0x0 linker stubs
+
+.vfp11_veneer   0x00001eec        0x0
+ .vfp11_veneer  0x00001eec        0x0 linker stubs
+
+.v4_bx          0x00001eec        0x0
+ .v4_bx         0x00001eec        0x0 linker stubs
+
+.iplt           0x00001eec        0x0
+ .iplt          0x00001eec        0x0 ./Primitivas/PR_7seg.o
+
+.rel.dyn        0x00001eec        0x0
+ .rel.iplt      0x00001eec        0x0 ./Primitivas/PR_7seg.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00001eec                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00001eec                __exidx_end = .
+                0x00001eec                _etext = .
+
+.data_RAM2      0x2007c000        0x0 load address 0x00001eec
+ FILL mask 0xff
+                [!provide]                PROVIDE (__start_data_RAM2, .)
+ *(.ramfunc.$RAM2)
+ *(.ramfunc.$RamAHB32)
+ *(.data.$RAM2*)
+ *(.data.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__end_data_RAM2, .)
+
+.uninit_RESERVED
+                0x10000000        0x0
+ *(.bss.$RESERVED*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _end_uninit_RESERVED = .
+
+.data           0x10000000       0x14 load address 0x00001eec
+ FILL mask 0xff
+                0x10000000                _data = .
+ *(vtable)
+ *(.ramfunc*)
+ *(.data*)
+ .data.stepper2
+                0x10000000        0x1 ./Primitivas/PR_cube.o
+                0x10000000                stepper2
+ .data.stepper3
+                0x10000001        0x1 ./Primitivas/PR_cube.o
+                0x10000001                stepper3
+ .data.stepper4
+                0x10000002        0x1 ./Primitivas/PR_cube.o
+                0x10000002                stepper4
+ .data.stepper5
+                0x10000003        0x1 ./Primitivas/PR_cube.o
+                0x10000003                stepper5
+ .data.estado1.4037
+                0x10000004        0x1 ./Primitivas/PR_string.o
+ .data.flag.4038
+                0x10000005        0x1 ./Primitivas/PR_string.o
+ .data.aux.4036
+                0x10000006        0x1 ./Primitivas/PR_string.o
+ *fill*         0x10000007        0x1 ff
+ .data.Tabla    0x10000008        0xb ./Drivers/FW_7seg.o
+                0x10000008                Tabla
+                0x10000014                . = ALIGN (0x4)
+ *fill*         0x10000013        0x1 ff
+                0x10000014                _edata = .
+
+.igot.plt       0x10000014        0x0 load address 0x00001f00
+ .igot.plt      0x10000014        0x0 ./Primitivas/PR_7seg.o
+
+.bss_RAM2       0x2007c000        0x0
+                [!provide]                PROVIDE (__start_bss_RAM2, .)
+ *(.bss.$RAM2*)
+ *(.bss.$RamAHB32*)
+                0x2007c000                . = ALIGN ((. != 0x0)?0x4:0x1)
+                [!provide]                PROVIDE (__end_bss_RAM2, .)
+
+.bss            0x10000014      0x24c
+                0x10000014                _bss = .
+ *(.bss*)
+ .bss.g_mSeg    0x10000014        0x2 ./Primitivas/PR_Crono.o
+                0x10000014                g_mSeg
+ *fill*         0x10000016        0x2 
+ .bss.g_Seg     0x10000018        0x2 ./Primitivas/PR_Crono.o
+                0x10000018                g_Seg
+ .bss.g_mSeg_flag
+                0x1000001a        0x2 ./Primitivas/PR_Crono.o
+                0x1000001a                g_mSeg_flag
+ .bss.g_Seg_flag
+                0x1000001c        0x1 ./Primitivas/PR_Crono.o
+                0x1000001c                g_Seg_flag
+ .bss.g_crono_flag
+                0x1000001d        0x1 ./Primitivas/PR_Crono.o
+                0x1000001d                g_crono_flag
+ *fill*         0x1000001e        0x2 
+ .bss.g_txBuffer
+                0x10000020       0x80 ./Primitivas/PR_Serial.o
+                0x10000020                g_txBuffer
+ .bss.g_rxBuffer
+                0x100000a0      0x100 ./Primitivas/PR_Serial.o
+                0x100000a0                g_rxBuffer
+ .bss.g_txIn    0x100001a0        0x1 ./Primitivas/PR_Serial.o
+                0x100001a0                g_txIn
+ .bss.g_txOut   0x100001a1        0x1 ./Primitivas/PR_Serial.o
+                0x100001a1                g_txOut
+ .bss.g_rxIn    0x100001a2        0x1 ./Primitivas/PR_Serial.o
+                0x100001a2                g_rxIn
+ .bss.g_txBufferCount
+                0x100001a3        0x1 ./Primitivas/PR_Serial.o
+                0x100001a3                g_txBufferCount
+ .bss.g_rxBufferCount
+                0x100001a4        0x1 ./Primitivas/PR_Serial.o
+                0x100001a4                g_rxBufferCount
+ .bss.g_txStart
+                0x100001a5        0x1 ./Primitivas/PR_Serial.o
+ .bss.estado.4038
+                0x100001a6        0x1 ./Primitivas/PR_cube.o
+ *fill*         0x100001a7        0x1 
+ .bss.estado.4077
+                0x100001a8        0x4 ./Primitivas/PR_cube.o
+ .bss.g_motor1  0x100001ac        0x8 ./Primitivas/PR_stepper.o
+                0x100001ac                g_motor1
+ .bss.g_motor2  0x100001b4        0x8 ./Primitivas/PR_stepper.o
+                0x100001b4                g_motor2
+ .bss.g_motor3  0x100001bc        0x8 ./Primitivas/PR_stepper.o
+                0x100001bc                g_motor3
+ .bss.g_motor4  0x100001c4        0x8 ./Primitivas/PR_stepper.o
+                0x100001c4                g_motor4
+ .bss.g_motor5  0x100001cc        0x8 ./Primitivas/PR_stepper.o
+                0x100001cc                g_motor5
+ .bss.g_motor6  0x100001d4        0x8 ./Primitivas/PR_stepper.o
+                0x100001d4                g_motor6
+ .bss.digito.4038
+                0x100001dc        0x1 ./Drivers/FW_7seg.o
+ .bss.i.3741    0x100001dd        0x1 ./Drivers/FW_Timer.o
+ .bss.j.3742    0x100001de        0x1 ./Drivers/FW_Timer.o
+ *fill*         0x100001df        0x1 
+ .bss.g_vector  0x100001e0       0x80 ./Aplicacion/Solver3.o
+                0x100001e0                g_vector
+ *(COMMON)
+                0x10000260                . = ALIGN (0x4)
+                0x10000260                _ebss = .
+                [!provide]                PROVIDE (end, .)
+
+.noinit_RAM2    0x2007c000        0x0
+ *(.noinit.$RAM2*)
+ *(.noinit.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+
+.noinit         0x10000260        0x0
+                0x10000260                _noinit = .
+ *(.noinit*)
+                0x10000260                . = ALIGN (0x4)
+                0x10000260                _end_noinit = .
+                [!provide]                PROVIDE (_pvHeapStart, DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x10008000                PROVIDE (_vStackTop, DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc32 - 0x0))
+                0xefff74c6                PROVIDE (__valid_user_code_checksum, (0x0 - ((((((_vStackTop + (ResetISR + 0x1)) + (NMI_Handler + 0x1)) + (HardFault_Handler + 0x1)) + (DEFINED (MemManage_Handler)?MemManage_Handler:0x0 + 0x1)) + (DEFINED (BusFault_Handler)?BusFault_Handler:0x0 + 0x1)) + (DEFINED (UsageFault_Handler)?UsageFault_Handler:0x0 + 0x1))))
+OUTPUT(solver3_v005.axf elf32-littlearm)
+
+.debug_info     0x00000000     0x1433
+ .debug_info    0x00000000       0xc9 ./Primitivas/PR_7seg.o
+ .debug_info    0x000000c9      0x11f ./Primitivas/PR_Crono.o
+ .debug_info    0x000001e8      0x26f ./Primitivas/PR_Serial.o
+ .debug_info    0x00000457      0x2c2 ./Primitivas/PR_cube.o
+ .debug_info    0x00000719      0x13f ./Primitivas/PR_stepper.o
+ .debug_info    0x00000858      0x133 ./Primitivas/PR_string.o
+ .debug_info    0x0000098b       0xb1 ./Primitivas/ProyecInit.o
+ .debug_info    0x00000a3c       0xf0 ./Drivers/FW_7seg.o
+ .debug_info    0x00000b2c      0x1aa ./Drivers/FW_GPIO.o
+ .debug_info    0x00000cd6      0x127 ./Drivers/FW_Stepper.o
+ .debug_info    0x00000dfd      0x17a ./Drivers/FW_Systick.o
+ .debug_info    0x00000f77       0xcc ./Drivers/FW_Timer.o
+ .debug_info    0x00001043       0xd4 ./Drivers/FW_UART.o
+ .debug_info    0x00001117       0xc9 ./Aplicacion/Solver3.o
+ .debug_info    0x000011e0      0x253 ./Aplicacion/cr_startup_lpc175x_6x.o
+
+.debug_abbrev   0x00000000      0xa90
+ .debug_abbrev  0x00000000       0x95 ./Primitivas/PR_7seg.o
+ .debug_abbrev  0x00000095       0x94 ./Primitivas/PR_Crono.o
+ .debug_abbrev  0x00000129      0x106 ./Primitivas/PR_Serial.o
+ .debug_abbrev  0x0000022f      0x14f ./Primitivas/PR_cube.o
+ .debug_abbrev  0x0000037e       0x8d ./Primitivas/PR_stepper.o
+ .debug_abbrev  0x0000040b       0x97 ./Primitivas/PR_string.o
+ .debug_abbrev  0x000004a2       0x6a ./Primitivas/ProyecInit.o
+ .debug_abbrev  0x0000050c       0xa6 ./Drivers/FW_7seg.o
+ .debug_abbrev  0x000005b2       0x8c ./Drivers/FW_GPIO.o
+ .debug_abbrev  0x0000063e       0x94 ./Drivers/FW_Stepper.o
+ .debug_abbrev  0x000006d2       0xec ./Drivers/FW_Systick.o
+ .debug_abbrev  0x000007be       0x8a ./Drivers/FW_Timer.o
+ .debug_abbrev  0x00000848       0xbc ./Drivers/FW_UART.o
+ .debug_abbrev  0x00000904       0x97 ./Aplicacion/Solver3.o
+ .debug_abbrev  0x0000099b       0xf5 ./Aplicacion/cr_startup_lpc175x_6x.o
+
+.debug_aranges  0x00000000      0x328
+ .debug_aranges
+                0x00000000       0x20 ./Primitivas/PR_7seg.o
+ .debug_aranges
+                0x00000020       0x38 ./Primitivas/PR_Crono.o
+ .debug_aranges
+                0x00000058       0x50 ./Primitivas/PR_Serial.o
+ .debug_aranges
+                0x000000a8       0x50 ./Primitivas/PR_cube.o
+ .debug_aranges
+                0x000000f8       0x20 ./Primitivas/PR_stepper.o
+ .debug_aranges
+                0x00000118       0x20 ./Primitivas/PR_string.o
+ .debug_aranges
+                0x00000138       0x38 ./Primitivas/ProyecInit.o
+ .debug_aranges
+                0x00000170       0x20 ./Drivers/FW_7seg.o
+ .debug_aranges
+                0x00000190       0x40 ./Drivers/FW_GPIO.o
+ .debug_aranges
+                0x000001d0       0x30 ./Drivers/FW_Stepper.o
+ .debug_aranges
+                0x00000200       0x28 ./Drivers/FW_Systick.o
+ .debug_aranges
+                0x00000228       0x28 ./Drivers/FW_Timer.o
+ .debug_aranges
+                0x00000250       0x38 ./Drivers/FW_UART.o
+ .debug_aranges
+                0x00000288       0x20 ./Aplicacion/Solver3.o
+ .debug_aranges
+                0x000002a8       0x80 ./Aplicacion/cr_startup_lpc175x_6x.o
+
+.debug_ranges   0x00000000      0x238
+ .debug_ranges  0x00000000       0x10 ./Primitivas/PR_7seg.o
+ .debug_ranges  0x00000010       0x28 ./Primitivas/PR_Crono.o
+ .debug_ranges  0x00000038       0x40 ./Primitivas/PR_Serial.o
+ .debug_ranges  0x00000078       0x40 ./Primitivas/PR_cube.o
+ .debug_ranges  0x000000b8       0x10 ./Primitivas/PR_stepper.o
+ .debug_ranges  0x000000c8       0x10 ./Primitivas/PR_string.o
+ .debug_ranges  0x000000d8       0x28 ./Primitivas/ProyecInit.o
+ .debug_ranges  0x00000100       0x10 ./Drivers/FW_7seg.o
+ .debug_ranges  0x00000110       0x30 ./Drivers/FW_GPIO.o
+ .debug_ranges  0x00000140       0x20 ./Drivers/FW_Stepper.o
+ .debug_ranges  0x00000160       0x18 ./Drivers/FW_Systick.o
+ .debug_ranges  0x00000178       0x18 ./Drivers/FW_Timer.o
+ .debug_ranges  0x00000190       0x28 ./Drivers/FW_UART.o
+ .debug_ranges  0x000001b8       0x10 ./Aplicacion/Solver3.o
+ .debug_ranges  0x000001c8       0x70 ./Aplicacion/cr_startup_lpc175x_6x.o
+
+.debug_macro    0x00000000     0x1bf1
+ .debug_macro   0x00000000       0x37 ./Primitivas/PR_7seg.o
+ .debug_macro   0x00000037      0x886 ./Primitivas/PR_7seg.o
+ .debug_macro   0x000008bd      0x693 ./Primitivas/PR_7seg.o
+ .debug_macro   0x00000f50       0x10 ./Primitivas/PR_7seg.o
+ .debug_macro   0x00000f60       0x37 ./Primitivas/PR_Crono.o
+ .debug_macro   0x00000f97       0x5e ./Primitivas/PR_Serial.o
+ .debug_macro   0x00000ff5       0x10 ./Primitivas/PR_Serial.o
+ .debug_macro   0x00001005       0x10 ./Primitivas/PR_Serial.o
+ .debug_macro   0x00001015      0x12d ./Primitivas/PR_Serial.o
+ .debug_macro   0x00001142       0xa0 ./Primitivas/PR_Serial.o
+ .debug_macro   0x000011e2       0xe3 ./Primitivas/PR_cube.o
+ .debug_macro   0x000012c5       0xd6 ./Primitivas/PR_cube.o
+ .debug_macro   0x0000139b       0x64 ./Primitivas/PR_cube.o
+ .debug_macro   0x000013ff       0x1c ./Primitivas/PR_cube.o
+ .debug_macro   0x0000141b       0x40 ./Primitivas/PR_cube.o
+ .debug_macro   0x0000145b       0x2e ./Primitivas/PR_cube.o
+ .debug_macro   0x00001489       0x1e ./Primitivas/PR_stepper.o
+ .debug_macro   0x000014a7       0xdd ./Primitivas/PR_string.o
+ .debug_macro   0x00001584       0x34 ./Primitivas/PR_string.o
+ .debug_macro   0x000015b8       0xd9 ./Primitivas/ProyecInit.o
+ .debug_macro   0x00001691       0xdd ./Drivers/FW_7seg.o
+ .debug_macro   0x0000176e       0xd9 ./Drivers/FW_GPIO.o
+ .debug_macro   0x00001847       0xd9 ./Drivers/FW_Stepper.o
+ .debug_macro   0x00001920       0xd9 ./Drivers/FW_Systick.o
+ .debug_macro   0x000019f9       0x37 ./Drivers/FW_Timer.o
+ .debug_macro   0x00001a30       0x40 ./Drivers/FW_UART.o
+ .debug_macro   0x00001a70       0xe2 ./Aplicacion/Solver3.o
+ .debug_macro   0x00001b52       0x82 ./Aplicacion/Solver3.o
+ .debug_macro   0x00001bd4       0x1d ./Aplicacion/cr_startup_lpc175x_6x.o
+
+.debug_line     0x00000000     0x2139
+ .debug_line    0x00000000       0xbf ./Primitivas/PR_7seg.o
+ .debug_line    0x000000bf       0xf2 ./Primitivas/PR_Crono.o
+ .debug_line    0x000001b1      0x224 ./Primitivas/PR_Serial.o
+ .debug_line    0x000003d5      0x4a4 ./Primitivas/PR_cube.o
+ .debug_line    0x00000879       0xdb ./Primitivas/PR_stepper.o
+ .debug_line    0x00000954      0x2e2 ./Primitivas/PR_string.o
+ .debug_line    0x00000c36      0x363 ./Primitivas/ProyecInit.o
+ .debug_line    0x00000f99      0x2cd ./Drivers/FW_7seg.o
+ .debug_line    0x00001266      0x30c ./Drivers/FW_GPIO.o
+ .debug_line    0x00001572      0x322 ./Drivers/FW_Stepper.o
+ .debug_line    0x00001894      0x2ad ./Drivers/FW_Systick.o
+ .debug_line    0x00001b41       0xa6 ./Drivers/FW_Timer.o
+ .debug_line    0x00001be7      0x14e ./Drivers/FW_UART.o
+ .debug_line    0x00001d35      0x329 ./Aplicacion/Solver3.o
+ .debug_line    0x0000205e       0xdb ./Aplicacion/cr_startup_lpc175x_6x.o
+
+.debug_str      0x00000000     0x5135
+ .debug_str     0x00000000     0x399c ./Primitivas/PR_7seg.o
+                               0x39d9 (size before relaxing)
+ .debug_str     0x0000399c       0x67 ./Primitivas/PR_Crono.o
+                               0x3a13 (size before relaxing)
+ .debug_str     0x00003a03      0x8a7 ./Primitivas/PR_Serial.o
+                               0x4234 (size before relaxing)
+ .debug_str     0x000042aa      0x5d5 ./Primitivas/PR_cube.o
+                               0x4534 (size before relaxing)
+ .debug_str     0x0000487f       0x32 ./Primitivas/PR_stepper.o
+                               0x39da (size before relaxing)
+ .debug_str     0x000048b1       0x48 ./Primitivas/PR_string.o
+                               0x448e (size before relaxing)
+ .debug_str     0x000048f9       0x52 ./Primitivas/ProyecInit.o
+                               0x4477 (size before relaxing)
+ .debug_str     0x0000494b       0x31 ./Drivers/FW_7seg.o
+                               0x4474 (size before relaxing)
+ .debug_str     0x0000497c       0x4f ./Drivers/FW_GPIO.o
+                               0x4485 (size before relaxing)
+ .debug_str     0x000049cb       0x3c ./Drivers/FW_Stepper.o
+                               0x44b2 (size before relaxing)
+ .debug_str     0x00004a07       0x5f ./Drivers/FW_Systick.o
+                               0x44dd (size before relaxing)
+ .debug_str     0x00004a66       0x61 ./Drivers/FW_Timer.o
+                               0x3aa7 (size before relaxing)
+ .debug_str     0x00004ac7       0x4f ./Drivers/FW_UART.o
+                               0x3aca (size before relaxing)
+ .debug_str     0x00004b16      0x466 ./Aplicacion/Solver3.o
+                               0x48ac (size before relaxing)
+ .debug_str     0x00004f7c      0x1b9 ./Aplicacion/cr_startup_lpc175x_6x.o
+                               0x2699 (size before relaxing)
+
+.comment        0x00000000       0xdc
+ .comment       0x00000000       0x6e ./Primitivas/PR_7seg.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f ./Primitivas/PR_Crono.o
+ .comment       0x0000006e       0x6f ./Primitivas/PR_Serial.o
+ .comment       0x0000006e       0x6f ./Primitivas/PR_cube.o
+ .comment       0x0000006e       0x6f ./Primitivas/PR_stepper.o
+ .comment       0x0000006e       0x6f ./Primitivas/PR_string.o
+ .comment       0x0000006e       0x6f ./Primitivas/ProyecInit.o
+ .comment       0x0000006e       0x6f ./Drivers/FW_7seg.o
+ .comment       0x0000006e       0x6f ./Drivers/FW_GPIO.o
+ .comment       0x0000006e       0x6f ./Drivers/FW_Stepper.o
+ .comment       0x0000006e       0x6f ./Drivers/FW_Systick.o
+ .comment       0x0000006e       0x6f ./Drivers/FW_Timer.o
+ .comment       0x0000006e       0x6f ./Drivers/FW_UART.o
+ .comment       0x0000006e       0x6f ./Aplicacion/Solver3.o
+ .comment       0x0000006e       0x6f ./Aplicacion/cr_startup_lpc175x_6x.o
+ .comment       0x0000006e       0x6e /usr/local/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libcr_c.a(__weak__main.o)
+                                 0x6f (size before relaxing)
+ .comment       0x000000dc       0x6f /usr/local/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libcr_c.a(strcpy.o)
+ .comment       0x000000dc       0x6f /usr/local/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libcr_c.a(strlen.o)
+ .comment       0x000000dc       0x6f /usr/local/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libcr_c.a(strstr.o)
+
+.ARM.attributes
+                0x00000000       0x33
+ .ARM.attributes
+                0x00000000       0x33 ./Primitivas/PR_7seg.o
+ .ARM.attributes
+                0x00000033       0x33 ./Primitivas/PR_Crono.o
+ .ARM.attributes
+                0x00000066       0x33 ./Primitivas/PR_Serial.o
+ .ARM.attributes
+                0x00000099       0x33 ./Primitivas/PR_cube.o
+ .ARM.attributes
+                0x000000cc       0x33 ./Primitivas/PR_stepper.o
+ .ARM.attributes
+                0x000000ff       0x33 ./Primitivas/PR_string.o
+ .ARM.attributes
+                0x00000132       0x33 ./Primitivas/ProyecInit.o
+ .ARM.attributes
+                0x00000165       0x33 ./Drivers/FW_7seg.o
+ .ARM.attributes
+                0x00000198       0x33 ./Drivers/FW_GPIO.o
+ .ARM.attributes
+                0x000001cb       0x33 ./Drivers/FW_Stepper.o
+ .ARM.attributes
+                0x000001fe       0x33 ./Drivers/FW_Systick.o
+ .ARM.attributes
+                0x00000231       0x33 ./Drivers/FW_Timer.o
+ .ARM.attributes
+                0x00000264       0x33 ./Drivers/FW_UART.o
+ .ARM.attributes
+                0x00000297       0x33 ./Aplicacion/Solver3.o
+ .ARM.attributes
+                0x000002ca       0x33 ./Aplicacion/cr_startup_lpc175x_6x.o
+ .ARM.attributes
+                0x000002fd       0x33 /usr/local/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libcr_c.a(__weak__main.o)
+ .ARM.attributes
+                0x00000330       0x33 /usr/local/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libcr_c.a(strcpy.o)
+ .ARM.attributes
+                0x00000363       0x33 /usr/local/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libcr_c.a(strlen.o)
+ .ARM.attributes
+                0x00000396       0x33 /usr/local/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/libcr_c.a(strstr.o)
+
+.debug_frame    0x00000000      0x83c
+ .debug_frame   0x00000000       0x38 ./Primitivas/PR_7seg.o
+ .debug_frame   0x00000038       0x8c ./Primitivas/PR_Crono.o
+ .debug_frame   0x000000c4      0x118 ./Primitivas/PR_Serial.o
+ .debug_frame   0x000001dc      0x114 ./Primitivas/PR_cube.o
+ .debug_frame   0x000002f0       0x38 ./Primitivas/PR_stepper.o
+ .debug_frame   0x00000328       0x38 ./Primitivas/PR_string.o
+ .debug_frame   0x00000360       0x84 ./Primitivas/ProyecInit.o
+ .debug_frame   0x000003e4       0x34 ./Drivers/FW_7seg.o
+ .debug_frame   0x00000418       0xd8 ./Drivers/FW_GPIO.o
+ .debug_frame   0x000004f0       0x6c ./Drivers/FW_Stepper.o
+ .debug_frame   0x0000055c       0x54 ./Drivers/FW_Systick.o
+ .debug_frame   0x000005b0       0x54 ./Drivers/FW_Timer.o
+ .debug_frame   0x00000604       0x98 ./Drivers/FW_UART.o
+ .debug_frame   0x0000069c       0x30 ./Aplicacion/Solver3.o
+ .debug_frame   0x000006cc      0x170 ./Aplicacion/cr_startup_lpc175x_6x.o
